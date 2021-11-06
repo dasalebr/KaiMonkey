@@ -1,5 +1,7 @@
 # KaiMonkey - Vulnerable Terraform Infrastructure 
 
+[![HIPAA](https://app.soluble.cloud/api/v1/public/badges/2b1a537a-9dd1-43d2-b653-05ce3471f2a7.svg)](https://app.soluble.cloud/repos/details/github.com/dasalebr/kaimonkey)  [![CIS](https://app.soluble.cloud/api/v1/public/badges/8c6f97ef-1aff-4b1c-9d2f-142261d49f28.svg)](https://app.soluble.cloud/repos/details/github.com/dasalebr/kaimonkey)  [![IaC](https://app.soluble.cloud/api/v1/public/badges/cc5372ce-d170-4f45-b1af-a6f00519c3e6.svg)](https://app.soluble.cloud/repos/details/github.com/dasalebr/kaimonkey)  
+
 [![License: Apache 2.0](https://img.shields.io/badge/license-Apache%202-blue)](https://github.com/accurics/KaiMonkey/blob/master/LICENSE)
 [![GitHub release](https://img.shields.io/github/release/accurics/KaiMonkey)](https://github.com/accurics/kaimonkey)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/accurics/KaiMonkey/pulls)
